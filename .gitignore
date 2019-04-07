@@ -1,0 +1,5 @@
+/target/
+.idea/
+arquetipo.db.mv.db
+arquetipo.db.trace.db
+arquetipologin.iml
